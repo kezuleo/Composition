@@ -19,7 +19,7 @@
         android:textStyle="bold" />
 
     <Button
-        android:id="@+id/tv_level_test"
+        android:id="@+id/button_level_test"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -48,7 +48,7 @@
         android:textAlignment="center" />
 
     <Button
-        android:id="@+id/tv_level_hard"
+        android:id="@+id/button_level_hard"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
